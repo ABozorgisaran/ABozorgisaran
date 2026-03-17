@@ -1,12 +1,12 @@
-# Hi, I'm Alexander Bozorgisaran 👋
+# Hi, I'm Alexander Bozorgisaran 
 
-🎓 Aerospace Engineering Student @ City, University of London  
-✈️ Focused on Aerodynamics, UAV Design, and Engineering Software Development  
-💻 Building tools that combine physics, simulation, and code  
+ Aerospace Engineering Student @ City, University of London  
+ Focused on Aerodynamics, UAV Design, and Engineering Software Development  
+ Building tools that combine physics, simulation, and code  
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am an Aerospace Engineering undergraduate with a strong interest in aerodynamic design, numerical methods, and engineering software development.
 
@@ -16,7 +16,7 @@ I enjoy building technical projects that bridge theory and implementation — fr
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 **Engineering & Analysis**
 - Aerodynamics (airfoil theory, panel methods, stability)
